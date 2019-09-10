@@ -87,7 +87,7 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
-.gitattribute
+.gitattributes
 Sorting Algorithms.sln
 Sorting Algorithms.vcxproj
 Sorting Algorithms.vcxproj.user
