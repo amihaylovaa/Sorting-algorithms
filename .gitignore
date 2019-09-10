@@ -87,6 +87,11 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
+.gitattribute
+.Sorting algorithms.sln
+.Sorting algorithms.vcxproj
+.Sorting algorithms.vcxproj.user
+.Sorting algorithms.vcxproj.filters
 
 # Chutzpah Test files
 _Chutzpah*
