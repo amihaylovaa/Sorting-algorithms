@@ -88,10 +88,10 @@ StyleCopReport.xml
 *.svclog
 *.scc
 .gitattribute
-.Sorting Algorithms.sln
-.Sorting Algorithms.vcxproj
-.Sorting Algorithms.vcxproj.user
-.Sorting Algorithms.vcxproj.filters
+Sorting Algorithms.sln
+Sorting Algorithms.vcxproj
+Sorting Algorithms.vcxproj.user
+Sorting Algorithms.vcxproj.filters
 
 # Chutzpah Test files
 _Chutzpah*
