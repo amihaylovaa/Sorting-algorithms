@@ -1,4 +1,4 @@
-The following project present some of sorting algorithms.
+The following project presents some of sorting algorithms.
 
 There you will find :
 1) Bubble sort 
